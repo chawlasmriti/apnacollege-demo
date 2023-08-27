@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first GitHub repository.
 <br>
-Author - Smriti Chawla
+Author - Smriti Chawla (Git-Demo)
